@@ -1,10 +1,10 @@
 # 📡 Group Assignment: Distributed Data Analytics Using Message Passing Interface (MPI)
 
-**Course**: Parallel and Distributed Computing / High Performance Computing  
-**Level**: Undergraduate (Year 3 / Year 4)  
-**Group Size**: 4 Members  
+**Course**: CSC580 Parallel Computing  (High Performance Computing / Distributed Computing)
+**Programme**: CS230 / CDCS230 ( Semester 5)  
+**Group Size**: 2 - 4 Members  
 **Total Marks**: 100%  
-**Submission Deadline**: *(To be set by lecturer)*  
+**Submission Deadline**: *Week 14*  
 **Mode**: Group Laboratory + Report + Presentation  
 
 ---
