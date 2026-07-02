@@ -1,0 +1,16 @@
+# Compiled binaries and objects
+*.exe
+*.obj
+*.o
+*.class
+
+# Large binary datasets
+*.bin
+*.csv
+
+# IDE and system files
+.vs/
+.vscode/
+*.user
+*.suo
+*.db
